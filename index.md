@@ -15,7 +15,7 @@ I am interested in questions motivated by the theory of computing, meaning that 
 In particular, recently I have been thinking about questions related to
 
 * spectral and algebraic graph theory
-* applications of linear/semidefinite programming to algorithm design, especially the sum-of-squares method.
+* algorithm design via efficient certificates (spectral, sum-of-squares proofs).
 
 
 You can reach me at &nbsp;***jiyu dot zhang at phd dot unibocconi dot it***
