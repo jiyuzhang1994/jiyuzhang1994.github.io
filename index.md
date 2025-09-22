@@ -10,7 +10,7 @@ title: Home
 
 Hi! I am a PhD student in the Stat&CS program at Bocconi University. I was advised by [Luca Trevisan](https://lucatrevisan.github.io/) until mid of 2024. Lately I have been co-advised by [Alon Rosen](https://www.alonrosen.net/) and [Salil Vadhan](https://salil.seas.harvard.edu/).
 
-I am interested in the design and analysis of algorithms, and in understanding the inherent difficulty of fundamental computational problems.
+I am interested in the design and analysis of *algorithms*, and in understanding the inherent *complexity* of fundamental problems in computation.
 
 In particular, recently I have been thinking about questions related to
 
