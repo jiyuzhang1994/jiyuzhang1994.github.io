@@ -1,7 +1,7 @@
 ---
 layout: default  
-permalink: /publication/  
-title: publication
+permalink: /research/  
+title: research
 ---
 
 * **Sparsest cut and eigenvalue multiplicities on low degree Abelian Cayley graphs**  
