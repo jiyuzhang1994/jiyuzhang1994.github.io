@@ -18,7 +18,7 @@ In particular, recently I have been thinking about questions related to
 * algorithm design via efficiently computable certificates (in the form of spectral or sum-of-squares proofs).
 
 
-You can reach me at &nbsp;***jiyu dot zhang at phd dot unibocconi dot it***
+You can reach me at &nbsp;**jiyu dot zhang at phd dot unibocconi dot it**
 
 ---
 

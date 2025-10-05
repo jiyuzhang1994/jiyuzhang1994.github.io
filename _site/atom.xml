@@ -4,7 +4,7 @@
  <title>JiYu Zhang</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-09-27T15:27:45+02:00</updated>
+ <updated>2025-10-06T00:47:54+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>Things you can find in Milan</title>
    <link href="http://localhost:4000/typerwriter/"/>
-   <updated>2023-02-22T00:00:00+01:00</updated>
+   <updated>2023-02-22T00:00:00+08:00</updated>
    <id>http://localhost:4000/typewriter</id>
    <content type="html">&lt;p&gt;Turing-endorsed typewriters.&lt;/p&gt;
 
@@ -35,7 +35,7 @@
  <entry>
    <title>Moving to Milan</title>
    <link href="http://localhost:4000/milan/"/>
-   <updated>2022-09-16T00:00:00+02:00</updated>
+   <updated>2022-09-16T00:00:00+08:00</updated>
    <id>http://localhost:4000/milan</id>
    <content type="html">&lt;p&gt;I finally settled(?) in Milan.&lt;/p&gt;
 
@@ -98,7 +98,7 @@
  <entry>
    <title>Test</title>
    <link href="http://localhost:4000/test/"/>
-   <updated>2022-04-24T00:00:00+02:00</updated>
+   <updated>2022-04-24T00:00:00+08:00</updated>
    <id>http://localhost:4000/test</id>
    <content type="html">&lt;p&gt;test&lt;/p&gt;
 </content>
