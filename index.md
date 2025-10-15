@@ -17,6 +17,8 @@ Recently I have been thinking about questions related to
 * spectral graph theory and its application to clustering and graph partitioning algorithms.
 * algorithm and complexity for optimization and statistical inference problems
 
+<span style="color: #FF0000;">I am looking for a postdoc position starting from September 2026</span>
+
 
 You can reach me at &nbsp;**jiyu dot zhang [at] phd dot unibocconi dot it**
 
