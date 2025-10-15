@@ -9,6 +9,6 @@ title: research
 with Tommaso d'Orsi, Chris Jones, Jake Ruotolo, and Salil Vadhan   
 [[arXiv]](https://arxiv.org/abs/2412.17115) 
 
-**Spectral graph clustering beyond the Laplacian**  
+* **Spectral graph clustering beyond the Laplacian**  
 *In preparation.*  
 with Salil Vadhan
