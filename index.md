@@ -15,9 +15,9 @@ My research interests lie broadly in the design and analysis of algorithms, in c
 Recently I have been thinking about questions related to
 
 * spectral graph theory and its application to clustering and graph partitioning algorithms.
-* algorithm and complexity for optimization and statistical inference problems
+* algorithm and complexity for average-case computation.
 
-<span style="color: #FF0000;">I am looking for a postdoc position starting from September 2026</span>
+<span style="color: #FF0000;">I am looking for a postdoc position starting from September 2026.</span>
 
 
 You can reach me at &nbsp;**jiyu dot zhang [at] phd dot unibocconi dot it**
