@@ -4,8 +4,7 @@ title: Home
 ---
 
 
-
-![photo](/assets/photo1.jpg){: width="350" }{: style="float: right; margin-left: 5em;"}
+![photo](/assets/photo2.jpg){: width="370" }{: style="float: right; margin-left: 5em;"}
 
 
 Hi! I am a PhD student in the Stat&CS program at Bocconi University. I was advised by [Luca Trevisan](https://lucatrevisan.github.io/) until mid of 2024. Lately I have been co-advised by [Alon Rosen](https://www.alonrosen.net/) and [Salil Vadhan](https://salil.seas.harvard.edu/).
@@ -15,7 +14,6 @@ My research interests lie broadly in the design and analysis of algorithms, in c
 Recently I have been thinking about questions related to
 
 * spectral graph theory and its application to clustering and graph partitioning algorithms.
-* algorithm and complexity for average-case computation.
 
 <span style="color: #FF0000;">I am looking for a postdoc position starting from September 2026.</span>
 
