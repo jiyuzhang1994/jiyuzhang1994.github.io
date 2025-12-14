@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-![photo](/assets/photo2.jpg){: width="370" }{: style="float: right; margin-left: 5em;"}
+![photo](/assets/photo2.jpg){: width="350" }{: style="float: right; margin-left: 5em;"}
 
 
 Hi! I am a PhD student in the Stat&CS program at Bocconi University. I was advised by [Luca Trevisan](https://lucatrevisan.github.io/) until mid of 2024. Lately I have been co-advised by [Alon Rosen](https://www.alonrosen.net/) and [Salil Vadhan](https://salil.seas.harvard.edu/).
