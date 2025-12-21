@@ -7,7 +7,7 @@ title: Home
 ![photo](/assets/photo2.jpg){: width="350" }{: style="float: right; margin-left: 5em;"}
 
 
-Hi! I am a PhD student in the Stat&CS program at Bocconi University. I was advised by [Luca Trevisan](https://lucatrevisan.github.io/) until mid of 2024. Lately I have been co-advised by [Alon Rosen](https://www.alonrosen.net/) and [Salil Vadhan](https://salil.seas.harvard.edu/).
+Hi! I am a PhD student in the Stat&CS program at Bocconi University. I was advised by [Luca Trevisan](https://lucatrevisan.github.io/) until mid of 2024. Lately I have been co-advised by [Salil Vadhan](https://salil.seas.harvard.edu/) and [Alon Rosen](https://www.alonrosen.net/).
 
 My research interests lie broadly in the design and analysis of algorithms, in computational complexity theory, and their interplay with related areas of mathematics.
 
