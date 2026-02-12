@@ -14,6 +14,7 @@ My research interests lie broadly in the design and analysis of algorithms, in c
 Recently I have been thinking about questions related to
 
 * spectral graph theory and its application to graph partitioning algorithms.
+* average-case complexity 
 
 <span style="color: #FF0000;">I am looking for a postdoc position starting from September 2026.</span>
 
