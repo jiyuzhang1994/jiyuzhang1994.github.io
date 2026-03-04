@@ -18,6 +18,8 @@ Recently I have been thinking about questions related to
 
 <span style="color: #FF0000;">I am looking for a postdoc position starting from September 2026.</span>
 
+<span style="color: #F5A327;">I will be visiting EPFL from May to August, kindly hosted by [Ola Svensson](https://theory.epfl.ch/osven/). Feel free to reach out if you want to have a talk!</span>
+
 
 You can reach me at &nbsp;**jiyu dot zhang [at] phd dot unibocconi dot it**
 
