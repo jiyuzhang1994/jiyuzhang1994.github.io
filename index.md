@@ -16,9 +16,10 @@ Recently I have been thinking about questions related to
 * spectral graph theory and its application to graph partitioning algorithms.
 * average-case complexity 
 
+**News**  
 <span style="color: #FF0000;">I am looking for a postdoc position starting from September 2026.</span>
 
-<span style="color: #F5A327;">I will be visiting EPFL from May to August, kindly hosted by [Ola Svensson](https://theory.epfl.ch/osven/). Feel free to reach out if you want to have a talk!</span>
+<span style="color: #8727f5;">I will be visiting EPFL from May to August, kindly hosted by [Ola Svensson](https://theory.epfl.ch/osven/). Feel free to reach out! </span>
 
 
 You can reach me at &nbsp;**jiyu dot zhang [at] phd dot unibocconi dot it**
