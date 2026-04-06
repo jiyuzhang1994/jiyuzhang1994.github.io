@@ -14,7 +14,7 @@ My research interests lie broadly in the design and analysis of algorithms, in c
 Currently I am mostly thinking about 
 
 * spectral graph theory and its application to graph partitioning algorithms.
-* average-case complexity 
+* algorithms and complexity for average-case/statistical inference problems.
 
 You can reach me at &nbsp;**jiyu dot zhang [at] phd dot unibocconi dot it**
 
