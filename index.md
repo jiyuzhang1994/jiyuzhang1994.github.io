@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-![photo](/assets/photo2.jpg){: width="350" }{: style="float: right; margin-left: 5em;"}
+![photo](/assets/photo4.jpg){: width="350" }{: style="float: right; margin-left: 5em;"}
 
 
 Hi! I am a PhD student in the Stat&CS program at Bocconi University. I was advised by [Luca Trevisan](https://lucatrevisan.github.io/) until mid of 2024. Lately I have been co-advised by [Salil Vadhan](https://salil.seas.harvard.edu/) and [Alon Rosen](https://www.alonrosen.net/).
@@ -13,8 +13,8 @@ My research interests lie broadly in the design and analysis of algorithms, in c
 
 Currently I am mostly thinking about 
 
-* spectral graph theory and its application to graph partitioning algorithms.
-* algorithms and complexity for average-case/statistical inference problems.
+* Spectral graph theory and its applications to graph partitioning algorithms
+* Algorithms and complexity for average-case/statistical inference problems.
 
 You can reach me at &nbsp;**jiyu dot zhang [at] phd dot unibocconi dot it**
 
