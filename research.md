@@ -10,5 +10,4 @@ with Tommaso d'Orsi, Chris Jones, Jake Ruotolo, and Salil Vadhan
 [[arXiv]](https://arxiv.org/abs/2412.17115) 
 
 * **Finding Nearly Periodic Components in Digraphs and Markov Chains from the Spectrum of Rotated Laplacian Matrices**  
-*In preparation.*  
-with Salil Vadhan
+*In submission.*  
