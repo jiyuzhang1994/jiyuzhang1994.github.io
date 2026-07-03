@@ -11,7 +11,7 @@ Hi! I am a PhD student in the Stat&CS program at Bocconi University. I was advis
 
 My research interests lie broadly in the design and analysis of algorithms, in computational complexity theory, and their interplay with related areas of mathematics.
 
-My PhD work has been on understanding analyzing eigenvalues and eigenvectors in various settings, especially for graph matrices. This is related to 
+My PhD work has been on analyzing and using eigenvalues and eigenvectors in various settings, especially for graph matrices. This is related to 
 
 * Spectral graph theory
 * Graph partitioning(i.e, clustering) algorithms
