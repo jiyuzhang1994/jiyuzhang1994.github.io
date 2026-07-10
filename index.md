@@ -11,7 +11,7 @@ Hi! I am a PhD student in the Stat&CS program at Bocconi University. I was advis
 
 In the summer of 2026, I am a visiting graduate student at EPFL, kindly hosted by [Ola Svensson](https://theory.epfl.ch/osven/).
 
-In the fall of 2026, I will be a visiting graduate student of the research program [Spectral Theory Beyond Graphs](https://simons.berkeley.edu/programs/spectral-theory-beyond-graphs) at Simons institute. I will attend remotely because of US visa.
+In the fall of 2026, I will be a visiting graduate student of the research program [Spectral Theory Beyond Graphs](https://simons.berkeley.edu/programs/spectral-theory-beyond-graphs) at the Simons Institute. I will attend remotely because of US visa.
 
 My research interests lie broadly in the design and analysis of algorithms, in computational complexity theory, and their interplay with related areas of mathematics.
 
