@@ -9,7 +9,7 @@ In reverse chronological order:
 * **Finding Nearly Periodic Components in Digraphs and Markov Chains from the Spectrum of Rotated Laplacian Matrices**    
 *In submission.*   
 with Salil Vadhan  
-[[arXiv]](https://arxiv.org/abs/2607.11333v1)  
+[[arXiv]](https://arxiv.org/abs/2607.11333)  
 
 
 * **Sparsest cut and eigenvalue multiplicities on low degree Abelian Cayley graphs**  
