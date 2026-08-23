@@ -9,7 +9,7 @@ title: Home
 
 Hi! I am a PhD student in the Stat&CS program at Bocconi University. I was advised by [Luca Trevisan](https://lucatrevisan.github.io/) until mid of 2024. Lately I have been co-advised by [Salil Vadhan](https://salil.seas.harvard.edu/) and [Alon Rosen](https://www.alonrosen.net/).
 
-In the fall of 2026, I am a visiting graduate student of the research program [Spectral Theory Beyond Graphs](https://simons.berkeley.edu/programs/spectral-theory-beyond-graphs) at the Simons Institute. Currently I plan to attend part of the activities remotely because of US visa.
+In the fall of 2026, I am a visiting graduate student of the research program [Spectral Theory Beyond Graphs](https://simons.berkeley.edu/programs/spectral-theory-beyond-graphs) at the Simons Institute. 
 
 In the summer of 2026, I was a visiting graduate student at EPFL, kindly hosted by [Ola Svensson](https://theory.epfl.ch/osven/).
 
