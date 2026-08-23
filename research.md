@@ -7,7 +7,7 @@ title: research
 In reverse chronological order:
 
 * **Finding Nearly Periodic Components in Digraphs and Markov Chains from the Spectrum of Rotated Laplacian Matrices**    
-*In submission.*   
+*In submission. 2026*   
 with Salil Vadhan  
 [[arXiv]](https://arxiv.org/abs/2607.11333)  
 
