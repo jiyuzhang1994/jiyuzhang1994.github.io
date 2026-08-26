@@ -24,7 +24,7 @@ My PhD work has been on analyzing and using eigenvalues and eigenvectors in vari
 You can reach me at &nbsp;**jiyu dot zhang [at] phd dot unibocconi dot it**
 
 **News**  
-<span style="color: #FF0000;">I am looking for a postdoc position starting from September 2026/Spring 2027.</span>
+<span style="color: #FF0000;">I am looking for a postdoc position starting from Spring 2027.</span>
 
 
 
