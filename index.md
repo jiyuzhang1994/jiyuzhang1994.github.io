@@ -9,11 +9,11 @@ title: Home
 
 Hi! I am a PhD student in the Stat&CS program at Bocconi University. I was advised by [Luca Trevisan](https://lucatrevisan.github.io/) until mid of 2024. Lately I have been co-advised by [Salil Vadhan](https://salil.seas.harvard.edu/) and [Alon Rosen](https://www.alonrosen.net/).
 
-In the fall of 2026, I am a visiting graduate student of the research program [Spectral Theory Beyond Graphs](https://simons.berkeley.edu/programs/spectral-theory-beyond-graphs) at the Simons Institute. For US visa issue I am currently only able to attend remotely.
+In the fall of 2026, I am a visiting graduate student of the research program [Spectral Theory Beyond Graphs](https://simons.berkeley.edu/programs/spectral-theory-beyond-graphs) at the Simons Institute.  
 
 In the summer of 2026, I was a visiting graduate student at EPFL, kindly hosted by [Ola Svensson](https://theory.epfl.ch/osven/).
 
-My research interests lie broadly in the design and analysis of algorithms, in computational complexity theory, and their interplay with related areas of mathematics.
+My research interests lie in the design and analysis of algorithms, in computational complexity theory, and their interplay with related areas of mathematics. Recently I have become interested in the theory of AI alignment, I will write more about this in the future.
 
 My PhD work has been on analyzing and using eigenvalues and eigenvectors in various settings, especially for graph matrices. This is related to 
 
