@@ -4,6 +4,12 @@ permalink: /research/
 title: research
 ---
 
+---  
+
+I start to maintain a page for sharing AI-generated proofs, see [here](https://jiyuzhang1994.github.io/aiproofs/)
+
+---
+
 In reverse chronological order:
 
 * **Finding Nearly Periodic Components in Digraphs and Markov Chains from the Spectrum of Rotated Laplacian Matrices**    
@@ -16,4 +22,5 @@ with Salil Vadhan
 *APPROX 2025.* <span style="color: #BC5815;">Invited to Theory of Computing special issue for APPROX/RANDOM 2025</span>    
 with Tommaso d'Orsi, Chris Jones, Jake Ruotolo, and Salil Vadhan   
 [[arXiv]](https://arxiv.org/abs/2412.17115) 
+
 
