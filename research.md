@@ -6,7 +6,7 @@ title: research
 
 ---  
 
-I start to maintain a page for sharing AI-generated proofs, see [here](https://jiyuzhang1994.github.io/aiproofs/)
+Since November 2026, I maintain a page for sharing AI-generated proofs, see [here](https://jiyuzhang1994.github.io/aiproofs/)
 
 ---
 
