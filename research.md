@@ -14,6 +14,10 @@ I believe the goal of mathematical research is to advance *human*' understanding
 
 In reverse chronological order:
 
+* **Two algorithms for graph partitioning via spectral methods**
+*PhD Thesis. 2026*  
+[[pdf]](/assets/Thesis_Jiyu.pdf)
+
 * **Finding Nearly Periodic Components in Digraphs and Markov Chains from the Spectrum of Rotated Laplacian Matrices**    
 *In submission. 2026*   
 with Salil Vadhan  
