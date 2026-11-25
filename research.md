@@ -8,7 +8,7 @@ title: research
 
 Since November 2026, I maintain a page for sharing AI-generated proofs, see [here](https://jiyuzhang1994.github.io/aiproofs/)
 
-I believe the goal of mathematical research is to advance *human*' understanding of mathematical structures and to produce *human*-understandable explanation (or proof) of them. Thus it is important to understand AI-generated proofs and *compress* them to a reasonable level that human can understand.
+I believe the goal of mathematical research is to advance *human* understanding of mathematical structures and to produce *human*-understandable explanation (or proof) of them. Thus it is important to understand AI-generated proofs and *compress* them to a reasonable level that human can understand.
 
 ---
 
