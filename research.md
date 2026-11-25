@@ -14,7 +14,7 @@ I believe the goal of mathematical research is to advance *human* understanding 
 
 In reverse chronological order:
 
-* **Two algorithms for graph partitioning via spectral methods**
+* **Two algorithms for graph partitioning via spectral methods**  
 *PhD Thesis. 2026*  
 [[pdf]](/assets/Thesis_Jiyu.pdf)
 
