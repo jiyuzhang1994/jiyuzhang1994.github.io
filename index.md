@@ -13,7 +13,7 @@ In the fall of 2026, I am a visiting graduate student of the research program [S
 
 In the summer of 2026, I was a visiting graduate student at EPFL, kindly hosted by [Ola Svensson](https://theory.epfl.ch/osven/).
 
-My research interests lie in the design and analysis of algorithms, in computational complexity theory, and their interplay with related areas of mathematics. Recently I got interested in AI alignment.
+My research interests lie in the design and analysis of algorithms, in computational complexity theory, and their interplay with related areas of mathematics. 
 
 My PhD work has been on analyzing and using eigenvalues and eigenvectors in various settings, especially for graph matrices. This is related to 
 
